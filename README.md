@@ -1,4 +1,4 @@
-<p align="center"></p>
+<p align="center"> <img src="https://github.com/Saikiran-Anandas/Saikiran-Anandas/blob/main/assets/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm Saikiran Anandas</h1>
 
 
@@ -13,7 +13,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - 🌱 I’m currently learning various new technologies.
 - 💬 Ask me about anything, I am happy to help;
 
-
+<p align="center"> <img src="https://github.com/Saikiran-Anandas/Saikiran-Anandas/blob/main/assets/My-work.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 
