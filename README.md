@@ -28,3 +28,28 @@ src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-w
 * Mail me on [Gmail](saikirananandas1234@gmail.com) 
 * Connect me on [LinkedIn](linkedin.com/in/SaikiranAnandas)
 * Follow me on  [YouTube](https://www.youtube.com/c/TECHBOYSAIKIRAN)
+
+Thanks!! ✌️
+
+<!--
+<a href=https://github-readme-stats.vercel.app">
+-->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikiran-Anandas&layout=compact" alt="Saikiran" />
+ </a>
+
+
+<a href="https://github.com/Saikiran-Anandas/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saikiran-Anandas&show_icons=true&theme=radical&count_private=true" alt="SaikiranAnandas github stats" />
+</a>
+<br />
+<br />
+
+<p align="center">
+<a href="https://www.youtube.com/c/TECHBOYSAIKIRAN?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Saikiran Anandas" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/saikirananandas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saikiran Anandas" height="30" width="30" /></a>
+<a href="https://www.facebook.com/SaikiranAnandas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saikiran Anandas" height="30" width="30" /></a>
+<a href="https://instagram.com/Saikiran_Anandas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saikiran_Anandas" height="30" width="30" /></a>
+<a href="https://leetcode.com/vrindagupta/">
+  <img align="center" alt="Vrinda's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+</p>
