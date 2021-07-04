@@ -49,7 +49,7 @@ Thanks!! ✌️
 <a href="https://www.linkedin.com/in/saikirananandas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saikiran Anandas" height="30" width="30" /></a>
 <a href="https://www.facebook.com/SaikiranAnandas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saikiran Anandas" height="30" width="30" /></a>
 <a href="https://instagram.com/Saikiran_Anandas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saikiran_Anandas" height="30" width="30" /></a>
-<a href="https://leetcode.com/vrindagupta/">
-  <img align="center" alt="Vrinda's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://leetcode.com/Saikiran-Anandas/">
+  <img align="center" alt="Saikiran's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 </p>
