@@ -3,8 +3,8 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Saikiran-Anandas.Saikiran-Anandas)
-<a href=https://github.com/TesseractCoding/NeoAlgo>
-   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+<a href=https://github.com/Saikiran-Anandas>
+   <img src=https://img.shields.io/badge/Saikiran-Anandas-Contributor-brightgreen>
 </a>
 
 ## Who Am I?
@@ -28,4 +28,4 @@ src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-word
 
 * Mail me on [Gmail](saikirananandas1234@gmail.com) 
 * Connect me on [LinkedIn](linkedin.com/in/SaikiranAnandas)
-* Follow me on  [YouTube](https://www.youtube.com/c/SaikiranAnandas)
+* Follow me on  [YouTube](https://www.youtube.com/c/TECHBOYSAIKIRAN)
