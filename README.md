@@ -1,4 +1,4 @@
-<p align="center"> <script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js" alt="hello"></script> </p>
+<p align="center"></p>
 <h1 align="center">Hi 👋, I'm Saikiran Anandas</h1>
 
 
@@ -13,7 +13,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - 🌱 I’m currently learning various new technologies.
 - 💬 Ask me about anything, I am happy to help;
 
-<script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js"></script>
+
 
 ## Languages and Tools  
 
