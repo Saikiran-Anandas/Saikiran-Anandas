@@ -3,9 +3,7 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Saikiran-Anandas.Saikiran-Anandas)
-<a href=https://github.com/Saikiran-Anandas/Saikiran-Anandas>
-   <img src=https://img.shields.io/badge/Saikiran-Anandas-Contributor-brightgreen>
-</a>
+
 
 ## Who Am I?
 
