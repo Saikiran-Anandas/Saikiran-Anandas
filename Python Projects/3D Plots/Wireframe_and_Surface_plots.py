@@ -1,0 +1,5 @@
+fig = plt.figure()
+ax = plt.axes(projection='3d')
+ax.plot_wireframe(x,y,z, color='black')
+ax.set_title('wireframe')
+plt.show()
