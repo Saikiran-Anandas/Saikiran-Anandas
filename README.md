@@ -26,7 +26,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-w
 ## Contact Me ☎️
 
 * Mail me on [Gmail](saikirananandas1234@gmail.com) 
-* Follow me on  [YouTube](https://www.youtube.com/c/TECHBOYSAIKIRAN)
+* Follow me on  [YouTube](https://wa.me/919381521145)
 * Connect me on [LinkedIn](linkedin.com/in/SaikiranAnandas)
 * Follow me on  [YouTube](https://www.youtube.com/c/TECHBOYSAIKIRAN)
 
