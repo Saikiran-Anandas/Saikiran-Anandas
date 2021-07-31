@@ -47,7 +47,7 @@ print(accuracy_score(y_test,predictions))
 print(model.predict(X_test))
 ```
 
-accuracy= 0.93333333333333
+accuracy= 0.93333333333333.
 ['virginica' 'virginica' 'setosa' 'setosa' 'setosa' 'virginica'
  'versicolor' 'versicolor' 'virginica' 'virginica' 'versicolor'
  'virginica' 'setosa' 'setosa' 'setosa' 'setosa' 'virginica' 'versicolor'
