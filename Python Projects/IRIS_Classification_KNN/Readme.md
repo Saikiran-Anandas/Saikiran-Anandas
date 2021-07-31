@@ -14,7 +14,11 @@ The data consists of continuous numeric values which describe the dimensions of 
 ```python
 import numpy as np
 import pandas as pd
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.datasets import load_iris
 data = pd.read_csv('iris.csv')
+
 ```
 
 First of all, all the required libraries like numpy and pandas are imported and iris datasets is loaded which was downloaded earlier
@@ -40,10 +44,15 @@ model = KNeighborsClassifier()
 model.fit(X_train,y_train)
 predictions=model.predict(X_test)
 print(accuracy_score(y_test,predictions))
+print(model.predict(X_test))
 ```
 
 accuracy= 0.93333333333333
-
+['virginica' 'virginica' 'setosa' 'setosa' 'setosa' 'virginica'
+ 'versicolor' 'versicolor' 'virginica' 'virginica' 'versicolor'
+ 'virginica' 'setosa' 'setosa' 'setosa' 'setosa' 'virginica' 'versicolor'
+ 'setosa' 'versicolor' 'setosa' 'virginica' 'setosa' 'virginica'
+ 'virginica' 'versicolor' 'virginica' 'setosa' 'virginica' 'versicolor']
 In Machine Learning, no any algorithm gives 100% accuracy. You can use other methods like SVM, Linear Regression, Random Forest etc. 
 
 Stay updated for more tutorials . Bye for today !
