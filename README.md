@@ -21,7 +21,8 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/><img
-src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="php" width="50" height="50"/>
+src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="php" width="50" height="50"/><img
+src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-wordmark.svg" alt="php" width="50" height="50"/>
 
 ## Contact Me ☎️
 
