@@ -22,7 +22,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wo
 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="50" height="50"/><img
 src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="php" width="50" height="50"/><img
-src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-wordmark.svg" alt="php" width="50" height="50"/>
+src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
 
 ## Contact Me ☎️
 
