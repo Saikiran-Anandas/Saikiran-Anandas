@@ -1,9 +1,5 @@
 <p align="center"> <img src="https://github.com/Saikiran-Anandas/Saikiran-Anandas/blob/main/assets/hello.gif" alt="hello" /> </p>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=Saikiran-Anandas.Saikiran-Anandas)
-
-
 ## Who Am I?
 <h1 align="center">Hi 👋, I'm Saikiran Anandas</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
