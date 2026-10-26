@@ -12,6 +12,7 @@
     .blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
     @media (prefers-reduced-motion: reduce){*{animation:none!important}}
   </style>
+  <rect x="1" y="1" width="1198" height="148" rx="14" fill="#050a06" stroke="#00ff41" stroke-opacity=".3" stroke-width="2"/>
   <path d="M0 70 H78 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H272 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H436 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H597 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H763 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H885 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H1040 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H1200" fill="none" stroke="url(#fade)" stroke-opacity=".18" stroke-width="2"/>
   <path class="ekg" d="M0 70 H78 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H272 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H436 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H597 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H763 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H885 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H1040 l8 -10 l7 10 l6 0 l7 -42 l9 72 l8 -40 l6 10 l9 0 H1200" fill="none" stroke="#00ff41" stroke-width="2.5" pathLength="1000" filter="url(#glow)"/>
   <text x="600" y="122" text-anchor="middle" font-size="16" fill="#00ff41" letter-spacing="4">[ END OF TRANSMISSION ]<tspan class="blink">_</tspan></text>
