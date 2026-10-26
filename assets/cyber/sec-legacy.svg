@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 54" width="900" height="54" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace">
+  <title>LEGACY STACK</title>
+  <style>
+    .dot{animation:run 3.2s cubic-bezier(.6,0,.4,1) infinite}
+    @keyframes run{from{transform:translateX(0)}to{transform:translateX(596px)}}
+    .blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <text x="4" y="35" font-size="21" font-weight="700" xml:space="preserve"><tspan fill="#0f8a33">0x02</tspan><tspan fill="#5d7a63"> // </tspan><tspan fill="#00ff41">LEGACY STACK</tspan></text>
+  <path d="M294 28H896" stroke="#00ff41" stroke-opacity=".3" stroke-width="2" stroke-dasharray="2 6"/>
+  <circle class="dot" cx="294" cy="28" r="4" fill="#00ff41"/>
+  <rect class="blink" x="888" y="20" width="8" height="16" fill="#00ff41" fill-opacity=".7"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 176" width="900" height="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace">
+  <title>HAK-T // HACKING WITH TELANGANA: Website for HAK-T, a hacking community based in Telangana. Built with HTML, CSS &amp; JavaScript and deployed on Vercel.</title>
+  <defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter><clipPath id="frame"><rect width="900" height="176" rx="10"/></clipPath></defs>
+  <style>
+    .trace{stroke-dasharray:110 890;animation:trace 7s linear infinite;animation-delay:-2.3s}
+    @keyframes trace{to{stroke-dashoffset:-1000}}
+    .blink{animation:blink 1.2s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="900" height="176" fill="#050a06"/>
+    <rect width="5" height="176" fill="#00ff41" fill-opacity=".8"/>
+    <text x="28" y="34" font-size="13" fill="#5d7a63" letter-spacing="2">FILE 0x02 // COMMUNITY</text>
+    <text x="28" y="68" font-size="25" font-weight="800" fill="#00ff41" filter="url(#glow)">HAK-T // HACKING WITH TELANGANA</text>
+    <text x="28" y="96" font-size="14.5" fill="#c9f7d3">Website for HAK-T, a hacking community based in Telangana.</text>
+    <text x="28" y="117" font-size="14.5" fill="#c9f7d3" fill-opacity=".75">Built with HTML, CSS &amp; JavaScript and deployed on Vercel.</text>
+    <rect x="28" y="132" width="90" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="73" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">COMMUNITY</text><rect x="128.2" y="132" width="43" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="150" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">WEB</text><rect x="181.6" y="132" width="67" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="215" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">VERCEL</text>
+    <rect x="790" y="18" width="86" height="26" rx="3" fill="#05d9e8" fill-opacity=".08" stroke="#05d9e8" stroke-opacity=".8"/>
+    <circle class="blink" cx="805" cy="31" r="4" fill="#05d9e8"/>
+    <text x="817" y="36" font-size="13" font-weight="700" fill="#05d9e8" letter-spacing="1">ONLINE</text>
+    <text x="872" y="150" font-size="14" fill="#00ff41" text-anchor="end">&gt; open_file ↗</text>
+    
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000" fill-opacity=".35"/>
+    </pattern>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00ff41" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#00ff41" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="176" fill="url(#scan)" pointer-events="none"/>
+  <rect class="band" y="-90" width="900" height="90" fill="url(#band)" pointer-events="none"/>
+  <style>.band{animation:band 9s linear infinite}
+  @keyframes band{to{transform:translateY(266px)}}</style>
+  </g>
+  <rect x="1" y="1" width="898" height="174" rx="10" fill="none" stroke="#00ff41" stroke-opacity=".22" stroke-width="2"/>
+  <rect class="trace" x="1" y="1" width="898" height="174" rx="10" fill="none" stroke="#00ff41" stroke-width="2.5" pathLength="1000" filter="url(#glow)"/>
+</svg>
