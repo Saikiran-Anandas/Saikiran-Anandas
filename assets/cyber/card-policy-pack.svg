@@ -5,7 +5,7 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter><clipPath id="frame"><rect width="900" height="176" rx="10"/></clipPath></defs>
   <style>
-    .trace{stroke-dasharray:110 890;animation:trace 7s linear infinite;animation-delay:0s}
+    .trace{stroke-dasharray:110 890;animation:trace 7s linear infinite;animation-delay:-2.3s}
     @keyframes trace{to{stroke-dashoffset:-1000}}
     .blink{animation:blink 1.2s steps(1) infinite}@keyframes blink{50%{opacity:0}}
     @media (prefers-reduced-motion: reduce){*{animation:none!important}}
@@ -13,7 +13,7 @@
   <g clip-path="url(#frame)">
     <rect width="900" height="176" fill="#050a06"/>
     <rect width="5" height="176" fill="#00ff41" fill-opacity=".8"/>
-    <text x="28" y="34" font-size="13" fill="#5d7a63" letter-spacing="2">FILE 0x01 // GRC</text>
+    <text x="28" y="34" font-size="13" fill="#5d7a63" letter-spacing="2">FILE 0x02 // GRC</text>
     <text x="28" y="68" font-size="25" font-weight="800" fill="#00ff41" filter="url(#glow)">STARTUP SECURITY POLICY PACK</text>
     <text x="28" y="96" font-size="14.5" fill="#c9f7d3">Complete GRC policy pack for a 50-person SaaS startup on Google Workspace, Slack, GitHub &amp; AWS.</text>
     <text x="28" y="117" font-size="14.5" fill="#c9f7d3" fill-opacity=".75">Acceptable use · Passwords &amp; MFA · Access control · Data classification · Incident reporting</text>
