@@ -11,7 +11,7 @@
 <img src="assets/cyber/sec-missions.svg" width="100%" alt="0x01 // MISSION FILES" />
 
 <a href="https://github.com/Saikiran-Anandas/test"><img src="assets/cyber/card-policy-pack.svg" width="100%" alt="Startup Security Policy Pack: a complete GRC policy pack for a 50-person SaaS startup" /></a>
-<a href="https://hak-t.vercel.app"><img src="assets/cyber/card-hak-t.svg" width="100%" alt="HAK-T: Hacking with Telangana community website" /></a>
+<a href="https://saikolabs.in"><img src="assets/cyber/card-saikolabs.svg" width="100%" alt="Saiko Labs, founded by Saikiran: cybersecurity platform with live CTF rooms, Docker attack boxes and security tools" /></a>
 <a href="https://saikiran-anandas.netlify.app/"><img src="assets/cyber/card-portfolio.svg" width="100%" alt="Personal portfolio" /></a>
 
 <img src="assets/cyber/sec-legacy.svg" width="100%" alt="0x02 // LEGACY STACK" />

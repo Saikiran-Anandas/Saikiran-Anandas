@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 176" width="900" height="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace">
-  <title>HAK-T // HACKING WITH TELANGANA: Website for HAK-T, a hacking community based in Telangana. Built with HTML, CSS &amp; JavaScript and deployed on Vercel.</title>
+  <title>SAIKO LABS // FOUNDER: Cybersecurity platform I founded: live CTF rooms, Docker attack boxes and a growing toolkit. Built for pentesters, SOC analysts, red &amp; blue teams and security researchers.</title>
   <defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
       <feGaussianBlur stdDeviation="3.5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -13,14 +13,14 @@
   <g clip-path="url(#frame)">
     <rect width="900" height="176" fill="#050a06"/>
     <rect width="5" height="176" fill="#00ff41" fill-opacity=".8"/>
-    <text x="28" y="34" font-size="13" fill="#5d7a63" letter-spacing="2">FILE 0x02 // COMMUNITY</text>
-    <text x="28" y="68" font-size="25" font-weight="800" fill="#00ff41" filter="url(#glow)">HAK-T // HACKING WITH TELANGANA</text>
-    <text x="28" y="96" font-size="14.5" fill="#c9f7d3">Website for HAK-T, a hacking community based in Telangana.</text>
-    <text x="28" y="117" font-size="14.5" fill="#c9f7d3" fill-opacity=".75">Built with HTML, CSS &amp; JavaScript and deployed on Vercel.</text>
-    <rect x="28" y="132" width="90" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="73" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">COMMUNITY</text><rect x="128.2" y="132" width="43" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="150" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">WEB</text><rect x="181.6" y="132" width="67" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="215" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">VERCEL</text>
-    <rect x="790" y="18" width="86" height="26" rx="3" fill="#05d9e8" fill-opacity=".08" stroke="#05d9e8" stroke-opacity=".8"/>
-    <circle class="blink" cx="805" cy="31" r="4" fill="#05d9e8"/>
-    <text x="817" y="36" font-size="13" font-weight="700" fill="#05d9e8" letter-spacing="1">ONLINE</text>
+    <text x="28" y="34" font-size="13" fill="#5d7a63" letter-spacing="2">FILE 0x02 // FOUNDER</text>
+    <text x="28" y="68" font-size="25" font-weight="800" fill="#00ff41" filter="url(#glow)">SAIKO LABS // FOUNDER</text>
+    <text x="28" y="96" font-size="14.5" fill="#c9f7d3">Cybersecurity platform I founded: live CTF rooms, Docker attack boxes and a growing toolkit.</text>
+    <text x="28" y="117" font-size="14.5" fill="#c9f7d3" fill-opacity=".75">Built for pentesters, SOC analysts, red &amp; blue teams and security researchers.</text>
+    <rect x="28" y="132" width="43" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="50" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">CTF</text><rect x="81.4" y="132" width="114" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="138" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">ATTACK BOXES</text><rect x="205.0" y="132" width="129" height="24" rx="3" fill="none" stroke="#0f8a33"/><text x="270" y="148.5" font-size="13" fill="#00ff41" text-anchor="middle">SECURITY TOOLS</text>
+    <rect x="806" y="18" width="70" height="26" rx="3" fill="#05d9e8" fill-opacity=".08" stroke="#05d9e8" stroke-opacity=".8"/>
+    <circle class="blink" cx="821" cy="31" r="4" fill="#05d9e8"/>
+    <text x="833" y="36" font-size="13" font-weight="700" fill="#05d9e8" letter-spacing="1">LIVE</text>
     <text x="872" y="150" font-size="14" fill="#00ff41" text-anchor="end">&gt; open_file ↗</text>
     
   <defs>
